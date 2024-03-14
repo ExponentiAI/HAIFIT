@@ -37,5 +37,16 @@ Note: you should change your checkpoint path.
 ## 3. Reference
 If you find our code or dataset is useful for your research, please cite us, Thanks.
 ```yaml
-Jia J, Xing Li, Weiren Yu, et al. HAIFIT: Human-Centered AI for Fashion Image Translation.[J]. arXiv preprint arXiv:2403.08651, 2024.
+@article{jiang2024haifit,
+  title={HAIFIT: Human-Centered AI for Fashion Image Translation},
+  author={Jiang, Jianan and Li, Xinglin and Yu, Weiren and Wu, Di},
+  journal={arXiv preprint arXiv:2403.08651},
+  year={2024}
+}
+```
+
+Or
+
+```yaml
+Jia Jiang, Xing Li, Weiren Yu, et al. HAIFIT: Human-Centered AI for Fashion Image Translation.[J]. arXiv preprint arXiv:2403.08651, 2024.
 ```
