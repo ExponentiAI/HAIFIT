@@ -1,8 +1,7 @@
-# HAIGEN 
-## [Part 02: Sketch-to-Image synthesis]
+# HAIFIT
 
 ***
-A Creative Style Generation Framework for Fashion Design
+HAIFIT: Human-Centered AI for Fashion Image Translation.
 
 Our model weights is avialable [**checkpoint**](https://drive.google.com/drive/folders/1DW2O9xIiL_wb4BDz06PflUqSq_n9v-Lf?usp=drive_link)
 
