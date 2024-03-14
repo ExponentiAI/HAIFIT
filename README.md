@@ -33,3 +33,9 @@ set **model=2** in **main.py** and run:
 python main.py
 ```
 Note: you should change your checkpoint path.
+
+## Reference
+If you find our code or dataset is useful for your research, please cite us, Thanks.
+```yaml
+Jia J, Xing Li, Weiren Yu, et al. HAIFIT: Human-Centered AI for Fashion Image Translation.[J]. arXiv preprint arXiv:2403.08651, 2024.
+```
