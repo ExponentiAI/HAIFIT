@@ -1,11 +1,11 @@
 # HAIFIT
 
 ***
-HAIFIT: Human-Centered AI for Fashion Image Translation. [Arxiv](https://arxiv.org/abs/2403.08651)
+HAIFIT: Human-Centered AI for Fashion Image Translation. [**Arxiv**](https://arxiv.org/abs/2403.08651)
 
 Our model weights is avialable [**checkpoint**](https://drive.google.com/drive/folders/1DW2O9xIiL_wb4BDz06PflUqSq_n9v-Lf?usp=drive_link)
 
-## Data preparation
+## 1. Data preparation
 For datasets that have paired sketch-image data, the path should be formatted as:
 ```yaml
 ./dataset/trainA/  # training reference (sketch)
@@ -20,21 +20,21 @@ After that, the configuration should be specified in config file in:
 Our Sketch-to-Image synthesis dataset is avialable [**HAIFashion**](https://drive.google.com/file/d/18nQfq7I7XUwXVFOqNbKmiyOnWaBJmw-_/view?usp=drive_link).
 
 
-## Train and Test
-### Train
+## 2. Train and Test
+### 2.1 Train
 set **model=1** in **main.py** and run:
 ```yaml
 python main.py
 ```
 
-### test
+### 2.2 test
 set **model=2** in **main.py** and run:
 ```yaml
 python main.py
 ```
 Note: you should change your checkpoint path.
 
-## Reference
+## 3. Reference
 If you find our code or dataset is useful for your research, please cite us, Thanks.
 ```yaml
 Jia J, Xing Li, Weiren Yu, et al. HAIFIT: Human-Centered AI for Fashion Image Translation.[J]. arXiv preprint arXiv:2403.08651, 2024.
