@@ -1,7 +1,7 @@
 # HAIFIT
 
 ***
-HAIFIT: Human-Centered AI for Fashion Image Translation.
+HAIFIT: Human-Centered AI for Fashion Image Translation. [Arxiv](https://arxiv.org/abs/2403.08651)
 
 Our model weights is avialable [**checkpoint**](https://drive.google.com/drive/folders/1DW2O9xIiL_wb4BDz06PflUqSq_n9v-Lf?usp=drive_link)
 
