@@ -17,7 +17,7 @@ After that, the configuration should be specified in config file in:
 ```yaml
 ./config.yml  # config file
 ```
-Our Sketch-to-Image synthesis dataset is avialable [**HAIFashion**](https://drive.google.com/file/d/18nQfq7I7XUwXVFOqNbKmiyOnWaBJmw-_/view?usp=drive_link).
+Our Sketch-to-Image synthesis dataset is avialable [**HAIFashion**](https://drive.google.com/file/d/1Cy8I92VYnBEgWbpIvLsy5VcYPliJ1PON/view?usp=drive_link).
 
 
 ## 2. Train and Test
