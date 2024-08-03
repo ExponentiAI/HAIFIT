@@ -1,6 +1,5 @@
 # HAIFIT
 
-***
 HAIFIT: Human-Centered AI for Fashion Image Translation. [**Arxiv**](https://arxiv.org/abs/2403.08651)
 
 Our model weights is available [**checkpoint**](https://drive.google.com/drive/folders/1DW2O9xIiL_wb4BDz06PflUqSq_n9v-Lf?usp=drive_link)
@@ -35,7 +34,7 @@ python main.py
 Note: you should change your checkpoint path.
 
 ## 3. Reference
-If you find our code or dataset useful for your research, please cite our work. Thank you.
+If you find our code or dataset useful for your research, please cite our work. Thank you. 🥰🥰
 ```yaml
 @article{jiang2024haifit,
   title={HAIFIT: Human-Centered AI for Fashion Image Translation},
@@ -45,8 +44,5 @@ If you find our code or dataset useful for your research, please cite our work. 
 }
 ```
 
-Or
-
-```yaml
-Jia Jiang, Xing Li, Weiren Yu, et al. HAIFIT: Human-Centered AI for Fashion Image Translation.[J]. arXiv preprint arXiv:2403.08651, 2024.
-```
+<be>
+<br>
